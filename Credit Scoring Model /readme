@@ -1,1 +1,19 @@
+Credit Scoring Model
 
+Developed a machine learning model to predict an individual's creditworthiness based on historical financial data.
+
+Key Features
+
+Data preprocessing and feature engineering
+Handling missing values and outliers
+Credit risk classification
+Model training using:
+Logistic Regression
+Decision Trees
+Random Forest
+Performance evaluation using:
+Accuracy
+Precision
+Recall
+F1-Score
+ROC-AUC
